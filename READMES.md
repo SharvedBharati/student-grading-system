@@ -54,20 +54,19 @@ A C++ console program that reads the marks of students, calculates their total, 
 
 ## Sample Output
 
+## Sample Output
+
 **Input (students 1 to 4)**
 
-![Input 1](<img width="391" height="916" alt="Input 1" src="https://github.com/user-attachments/assets/8976ef51-826b-4918-892a-25f29e8376fd" />
-)
+<img width="391" height="916" alt="Input 1" src="https://github.com/user-attachments/assets/8976ef51-826b-4918-892a-25f29e8376fd" />
 
 **Input (student 5) and file saved**
 
-![Input 2](<img width="340" height="271" alt="Input 2" src="https://github.com/user-attachments/assets/c0721cf2-8d3c-431b-bf73-bb7facd81e8b" />
-)
+<img width="340" height="271" alt="Input 2" src="https://github.com/user-attachments/assets/c0721cf2-8d3c-431b-bf73-bb7facd81e8b" />
 
 **Result sheet with topper, grade count and search**
 
-![Output](<img width="658" height="463" alt="output" src="https://github.com/user-attachments/assets/cf5b78dc-8ffb-4a6e-af11-fa617a1ed07f" />
-)
+<img width="658" height="463" alt="output" src="https://github.com/user-attachments/assets/cf5b78dc-8ffb-4a6e-af11-fa617a1ed07f" />
 
 ## Limitations and Future Scope
 
